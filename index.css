@@ -1,0 +1,22 @@
+body {
+    background: white;
+}
+
+#texture {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 400px;
+    height: 200px;
+    background-image: url('water.gif');
+}
+
+#mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 400px;
+    height: 200px;
+    background-image: url('kelly.png');
+}
+
